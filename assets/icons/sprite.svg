@@ -1,0 +1,6 @@
+<svg width="0" height="0" class="hidden">
+    <symbol fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" id="remove">
+        <path d="M1 1L16.9999 16.9999" stroke="#737B8C"></path>
+        <path d="M17 1L1.0001 16.9999" stroke="#737B8C"></path>
+    </symbol>
+</svg>
